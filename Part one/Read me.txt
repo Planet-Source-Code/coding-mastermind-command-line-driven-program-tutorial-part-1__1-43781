@@ -1,0 +1,22 @@
+The tutorial for part one is in the "Documentation" folder...
+
+
+This is how to use the Example VB Source code:
+
+Here are the 3 easy steps to be able to use this program:
+  1) Compile and make it a .exe file.
+  2) Place it in your Windows folder (base directory for "Run", DOS and shortcuts).
+  3) Launch the program through "Run", through DOS or through creating a shortcut.
+
+The format for this program to function correctly is:
+  CL <MESSAGE>
+
+Here is an example of how it could be used:
+  CL Welcome to this program, I hope you enjoy it...
+
+
+I hope this program is useful to you fellow VB programmers, I hope to see some nice
+applications coming out of this code...
+
+Best Regards,
+Coding MasterMind
